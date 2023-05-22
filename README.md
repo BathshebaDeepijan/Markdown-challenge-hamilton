@@ -27,7 +27,7 @@
 
 ###### La nage du chargeur !
 
-[Adeline]( https://github.com/) || [Bathsheba Deepijan](https://github.com/BathshebaDeepijan/Markdown-challenge-hamilton) || [Camille](https://github.com/)
+[Adeline]( https://github.com/) || [Bathsheba Deepijan](https://github.com/BathshebaDeepijan/Markdown-challenge-hamilton) || [Camille](https://github.com/CMarchandon/markdown-challenge)
 
 
 
